@@ -14,16 +14,16 @@ export default function MainHero() {
  
     <div className="flex justify-center mb-3">
       <h5 className="text-white text-2xl font-semibold">
-        Scrollable Content
+        About us
       </h5>
     </div>
   <div className="p-3 mt-5  border-slate-100 text-center max-h-60 overflow-y-auto [&::-webkit-scrollbar-thumb]:rounded-xl [&::-webkit-scrollbar-thumb]:bg-slate-300 [&::-webkit-scrollbar]:w-1.5 [&::-webkit-scrollbar-track]:rounded-xl [&::-webkit-scrollbar-track]:bg-slate-100">
     <p className="block text-white leading-normal font-light mb-4 max-w-lg">
-      Because it&apos;s about motivating the doers. Because I&apos;m here to follow my dreams and inspire others. Here is some additional text to test the scrolling feature. Imagine this is a long article that you can scroll through.
+    VibeVista: Your ultimate social hub! Connect effortlessly, share vibrant moments, and vibe with friends in real-time. Enjoy seamless video calls, join lively chats, and discover trending posts. Elevate your social experience with our intuitive, glass-like interface. Join the buzz and let the good times roll! 
     </p> 
     <p className="block text-white leading-normal font-light mb-4 max-w-lg">
-      Still more content to keep the scroll active. Let's make sure the scrollbar styling is correct. Apple's scrollbar style is subtle, with a thin, sleek design. Scroll down for more! Keep adding more content to ensure the scroll is working. The card's content should now be scrollable. Test it out!
-      More text to fill the space, as we continue to check how scroll behaves.
+    Dive into a world where every interaction is smooth and engaging. Create lasting connections, express yourself freely, and stay updated with friends' activities. With VibeVista, staying social is not just easy—it's an adventure. Your stories, your way, all in one place. Join us today and experience social media like never before!
+      
     </p>
   </div>
 </div>
